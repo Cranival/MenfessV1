@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Lexxy24"
+    "url": "https://github.com/Cranival"
   },
-  "author": "Lexxy Official",
+  "author": "Khanip",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",
